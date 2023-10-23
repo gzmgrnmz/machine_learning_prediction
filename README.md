@@ -8,3 +8,8 @@ Exploratory Data Analysis and determining Training Labels
 Finding best Hyperparameter for SVM, Classification Trees and Logistic Regression
 
 *   Finding the method performs best using test data
+  
+Logistic Regression 
+Support Vector Machine 
+Decision Tree Accuracy
+K-Nearest Neighbors
